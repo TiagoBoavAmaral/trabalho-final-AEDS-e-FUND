@@ -53,3 +53,5 @@ O Hotel Descanso Garantido é um hotel localizado no centro de Itacaré – BA, 
 * **void ler_quartos()**: abre o arquivo "quartos.txt" para leitura, e lê todas as informações já salvas, sendo iniciada lendo a quantidade total de quartos e depois a informação de cada quarto.
 * **void menu()**: uma função que imprime o menu e usa a variavél global opção do menu que é usada na main.
 * **main()**: e a função main onde possui o menu, o chamado de cada função.
+
+* Video Utilizando o Software: https://drive.google.com/file/d/1uIPkd1up3Ui3VGH1_ZcNwgQK8u-DOyzj/view
